@@ -15,7 +15,7 @@ It provides a baseline calendar layout that you can freely customize — change 
 	1.	Open Adobe Express and launch the add-on Universal Calendar.
 	2.	Select the year and month.
 	3.	Optionally configure layout options such as background color or text color.
-	4.	Click “Generate” to insert the calendar directly on your canvas.
+	4.	Click “Insert to Express” to insert the calendar directly on your canvas.
 	5.	Adjust fonts, positions, or sizes manually after insertion.
 
 ⸻
@@ -38,7 +38,6 @@ It provides a baseline calendar layout that you can freely customize — change 
 
 If the add-on doesn’t render correctly:
 	•	Reload Adobe Express.
-	•	Ensure you’re using a browser that supports ES2020+ JavaScript.
 	•	Clear cache and restart.
 
 ⸻
@@ -64,7 +63,7 @@ Adobe Express の言語設定に基づいて自動的に祝日を切り替えま
 	1.	Adobe Express を開き、「Universal Calendar」アドオンを起動します。
 	2.	年 と 月 を選択します。
 	3.	必要に応じて背景色や文字色などを設定します。
-	4.	「Generate」 をクリックするとカレンダーがキャンバスに挿入されます。
+	4.	「Expressに挿入」 をクリックするとカレンダーがキャンバスに挿入されます。
 	5.	挿入後にデザインに合わせてフォントや位置を手動で調整してください。
 
 ⸻
@@ -85,7 +84,6 @@ Adobe Express の言語設定に基づいて自動的に祝日を切り替えま
 
 🆘 トラブルシューティング
 	•	Adobe Expressを再読み込みしてください。
-	•	JavaScript ES2020 以降対応のブラウザを使用してください。
 	•	キャッシュをクリアして再起動してください。
 
 ⸻
